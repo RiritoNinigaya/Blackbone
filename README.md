@@ -85,13 +85,13 @@ Windows Hck Library(Works in 8, 8.1, 10 and 11)... So Enjoy To Use This!!!
 
 ## Requirements
 
-- Visual Studio 2017 15.7 or higher
+- Visual Studio 2019 or higher
 - Windows SDK 10.0.17134 or higher
 - WDK 10.0.17134 or higher (driver only)
 - VC++ 2017 Libs for Spectre (x86 and x64)
 - Visual C++ ATL (x86/x64) with Spectre Mitigations
 
 ## License
-Blackbone is licensed under the MIT License. Dependencies are under their respective licenses.
+Blackbone is licensed under the BSD-2 License(Fork Version, MIT License for Original Version). Dependencies are under their respective licenses.
 
 ![Library](https://github.com/DarthTon/Blackbone/workflows/Library/badge.svg?branch=master) ![Driver](https://github.com/DarthTon/Blackbone/workflows/Driver/badge.svg?branch=master)
